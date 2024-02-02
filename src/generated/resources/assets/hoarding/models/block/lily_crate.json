@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hoarding:block/crate_bottom",
+    "side": "hoarding:block/lily_crate_side",
+    "top": "hoarding:block/lily_crate_top"
+  }
+}

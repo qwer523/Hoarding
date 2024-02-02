@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hoarding:block/crate_bottom",
+    "side": "hoarding:block/oxeye_daisy_crate_side",
+    "top": "hoarding:block/oxeye_daisy_crate_top"
+  }
+}
