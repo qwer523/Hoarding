@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "ars_nouveau:source_berry"
+      }
+    },
+    "result": {
+      "item": "hoarding:source_berry_crate",
+      "count": 1
+    },
+    "conditions": [
+        {
+          "type": "forge:item_exists",
+          "item": "ars_nouveau:source_berry"
+        }
+      ]
+  }

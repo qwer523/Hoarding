@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:blue_orchid_crate"
+      }
+    ],
+    "result": {
+      "item": "minecraft:blue_orchid",
+      "count": 9
+    }
+  }

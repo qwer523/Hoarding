@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:oxeye_daisy"
+      }
+    },
+    "result": {
+      "item": "hoarding:oxeye_daisy_crate",
+      "count": 1
+    }
+  }

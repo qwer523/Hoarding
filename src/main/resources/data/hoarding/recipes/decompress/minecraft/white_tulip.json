@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:white_tulip_crate"
+      }
+    ],
+    "result": {
+      "item": "minecraft:white_tulip",
+      "count": 9
+    }
+  }

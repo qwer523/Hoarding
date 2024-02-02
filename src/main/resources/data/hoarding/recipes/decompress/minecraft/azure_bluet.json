@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:azure_bluet_crate"
+      }
+    ],
+    "result": {
+      "item": "minecraft:azure_bluet",
+      "count": 9
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:source_berry_crate"
+      }
+    ],
+    "result": {
+      "item": "ars_nouveau:source_berry",
+      "count": 9
+    },
+    "conditions": [
+        {
+          "type": "forge:item_exists",
+          "item": "ars_nouveau:source_berry"
+        }
+      ]
+  }

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
+      "tag": "forge:berries"
+    },
+    {
+      "tag": "forge:berries"
+    },
+    {
+      "item": "hoarding:pumpkin_slice"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:fruit_salad"
+  },
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "hoarding:pumpkin_slice"
+    }
+  ]
+}

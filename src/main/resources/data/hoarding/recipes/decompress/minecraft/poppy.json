@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:poppy_crate"
+      }
+    ],
+    "result": {
+      "item": "minecraft:poppy",
+      "count": 9
+    }
+  }

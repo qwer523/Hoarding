@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:glistering_melon"
+      }
+    ],
+    "result": {
+      "item": "minecraft:glistering_melon_slice",
+      "count": 9
+    }
+  }

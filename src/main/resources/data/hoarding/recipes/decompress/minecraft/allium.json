@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:allium_crate"
+      }
+    ],
+    "result": {
+      "item": "minecraft:allium",
+      "count": 9
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:lily_of_the_valley"
+      }
+    },
+    "result": {
+      "item": "hoarding:lily_crate",
+      "count": 1
+    }
+  }

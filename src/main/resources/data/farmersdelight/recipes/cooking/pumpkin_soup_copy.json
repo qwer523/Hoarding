@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "hoarding:pumpkin_slice"
+    },
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "tag": "forge:raw_pork"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:pumpkin_soup"
+  },
+  "experience": 1.0,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "hoarding:pumpkin_slice"
+    }
+  ]
+}

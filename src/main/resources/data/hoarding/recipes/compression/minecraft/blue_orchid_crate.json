@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:blue_orchid"
+      }
+    },
+    "result": {
+      "item": "hoarding:blue_orchid_crate",
+      "count": 1
+    }
+  }

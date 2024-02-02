@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:brown_mushroom_crate"
+      }
+    ],
+    "result": {
+      "item": "minecraft:brown_mushroom",
+      "count": 9
+    }
+  }

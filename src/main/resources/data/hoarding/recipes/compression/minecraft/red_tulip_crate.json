@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:red_tulip"
+      }
+    },
+    "result": {
+      "item": "hoarding:red_tulip_crate",
+      "count": 1
+    }
+  }

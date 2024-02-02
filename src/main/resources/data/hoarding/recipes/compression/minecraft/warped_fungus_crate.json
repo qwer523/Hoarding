@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:warped_fungus"
+      }
+    },
+    "result": {
+      "item": "hoarding:warped_fungus_crate",
+      "count": 1
+    }
+  }

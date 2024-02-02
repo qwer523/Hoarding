@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:poppy"
+      }
+    },
+    "result": {
+      "item": "hoarding:poppy_crate",
+      "count": 1
+    }
+  }

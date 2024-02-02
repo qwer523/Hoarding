@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  },
+  "result": {
+    "item": "hoarding:glistering_melon",
+    "count": 1
+  }
+}

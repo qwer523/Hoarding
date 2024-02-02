@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:dandelion"
+      }
+    },
+    "result": {
+      "item": "hoarding:dandelion_crate",
+      "count": 1
+    }
+  }

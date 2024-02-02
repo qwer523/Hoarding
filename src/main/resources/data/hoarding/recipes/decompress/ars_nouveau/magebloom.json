@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:magebloom_crate"
+      }
+    ],
+    "result": {
+      "item": "ars_nouveau:magebloom",
+      "count": 9
+    },
+    "conditions": [
+        {
+          "type": "forge:item_exists",
+          "item": "ars_nouveau:magebloom"
+        }
+      ]
+  }

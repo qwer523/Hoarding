@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:crimson_fungus"
+      }
+    },
+    "result": {
+      "item": "hoarding:crimson_fungus_crate",
+      "count": 1
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "hoarding:cotton_bag"
+      }
+    ],
+    "result": {
+      "item": "cottonly:ball",
+      "count": 9
+    },
+    "conditions": [
+        {
+          "type": "forge:item_exists",
+          "item": "cottonly:ball"
+        }
+      ]
+  }
