@@ -1,9 +1,6 @@
 package com.xinluo.hoarding.data;
 
-import com.xinluo.hoarding.data.provider.ChineseLanguageProvider;
-import com.xinluo.hoarding.data.provider.EnglishLanguageProvider;
-import com.xinluo.hoarding.data.provider.ModelProvider;
-import com.xinluo.hoarding.data.provider.StateProvider;
+import com.xinluo.hoarding.data.provider.*;
 import net.minecraftforge.data.event.GatherDataEvent;
 
 public class Datagen {
@@ -15,5 +12,7 @@ public class Datagen {
         gen.addProvider(event.includeClient(), new ChineseLanguageProvider(packOutput));
         gen.addProvider(event.includeClient(), new ModelProvider(packOutput, helper));
         gen.addProvider(event.includeClient(), new StateProvider(packOutput, helper));
+
+        gen.addProvider(event.includeServer(), new LootProvider(packOutput));
     }
 }
